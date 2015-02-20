@@ -4,7 +4,7 @@
 {% include css/skeleton.css %}
 {% include css/main.css %}
 img[alt=group] { 
-  max-width:  200px;
-  max-height: 200px; 
+  max-width:  600px;
+  max-height: 500px; 
   display: block;
-} 
+} 
