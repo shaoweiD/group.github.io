@@ -3,3 +3,7 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
+img[alt="group"] { 
+  max-width:  20px; 
+  display: block;
+}
