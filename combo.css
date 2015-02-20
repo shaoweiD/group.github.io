@@ -4,7 +4,7 @@
 {% include css/skeleton.css %}
 {% include css/main.css %}
 img[alt=group] { 
-  width:  600px;
-  height: 500px; 
+  width:  200px;
+  height: 150px; 
   display: block;
 } 
