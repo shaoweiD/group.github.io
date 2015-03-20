@@ -1,0 +1,85 @@
+<body>
+
+<table>
+<tbody>
+  <tr>
+    <td>
+    <h1 align="center">Title of form</h1>
+    </td>
+  </tr>
+  <input type="date"></input>
+</tbody>
+</table>
+
+<form>
+<table>
+<tbody>
+  <tr>
+    <td width=25%>
+    <span>From</span>
+    </td>
+    <td width=55%>
+    <input type="text" size=40></input>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <span>To</span>
+    </td>
+    <td>
+    <input type="text" size=45></input>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <span>Number</span>
+    </td>
+    <td>
+    <select>
+      <option value="1">6</option>
+      <option value="2">7</option>
+      <option value="1">8</option>
+    </select>
+    </td>
+  <tr>
+    <td>
+    <span>Letter</span>
+    </td>
+    <td>
+    <input type="file"></input>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <span>Comments</span>
+    </td>
+    <td>
+    <textarea rows="15" cols="40">default text</textarea>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <br></br>
+    <span>Continue</span
+    </td>
+    <td align="center">
+    <br></br>
+    <input type="submit" value="Complete"></input>
+    </td>
+  </tr>
+</tbody>
+</table>
+</form>
+
+<br></br>
+
+<div class="footer">
+  <ul>
+  <li><a href="#">bogus link 1</a></li>
+  <li><a href="#">link 2</a></li>
+  <li><a href="#">link 3</a></li>
+  </ul>
+</div>
+
+</body>
+
