@@ -80,9 +80,14 @@ Journal of Diabetes Science and Technology 4 (2), 312
 <!---Book Chapters from CV-->
 ##Book Chapters
 
-1.M. Daniele, S. Campuzano, F. Kirilay, E.S. McLamore, Allison Cargill, Shaowei Ding, **J.C. Claussen**, “Hybrid metallic nanoparticles: enhanced bioanalysis and biosensing via carbon nanotubes, graphene, and organic conjugation,”, *Nanobiosensors and Nanobioanalyses*. Springer (In Press)
-2.**J.C. Claussen**, I.L. Medintz, “FRET-based cellular sensing with genetically encoded fluorescent indicators,” *FRET – Förster Resonance Energy Transfer. From Theory to Applications*.  Wiley-VCH, (2013), ISBN: 9783527656028
-3.**J.C. Claussen**, J. Shi, C.S. Rout, M.S. Artiles, M.M. Wickner, M.S. Stensberg, D.M. Porterfield, T.S. Fisher, “Nano-sized biosensors,” *Biosensors for Medical Applications*. Woodhead Publishing, (2012), ISBN 1 84569 935 1.
-4.**J.C. Claussen**, J. Shi, A.R. Diggs, D.M. Porterfield, T.S. Fisher. Electrochemical Biosensors of Carbon Nanotubes., *Nanomaterials for the Life Sciences*, Ch. 8 (pp. 187-217) Wiley-VCH, (2011), ISBN 978-3-527-32169-8.
+1. M. Daniele, S. Campuzano, F. Kirilay, E.S. McLamore, Allison Cargill, Shaowei Ding, **J.C. Claussen**, [“Hybrid metallic nanoparticles: enhanced bioanalysis and biosensing via carbon nanotubes, graphene, and organic conjugation,”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&cstart=20&pagesize=80&citation_for_view=gJzQV6QAAAAJ:IWHjjKOFINEC), *Nanobiosensors and Nanobioanalyses*. Springer (In Press)
+2. **J.C. Claussen**, I.L. Medintz, [“FRET-based cellular sensing with genetically encoded fluorescent indicators,”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&cstart=20&pagesize=80&citation_for_view=gJzQV6QAAAAJ:qxL8FJ1GzNcC) *FRET – Förster Resonance Energy Transfer. From Theory to Applications*.  Wiley-VCH, (2013), ISBN: 9783527656028
+3. **J.C. Claussen**, J. Shi, C.S. Rout, M.S. Artiles, M.M. Wickner, M.S. Stensberg, D.M. Porterfield, T.S. Fisher, [“Nano-sized biosensors,”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&cstart=20&pagesize=80&citation_for_view=gJzQV6QAAAAJ:7PzlFSSx8tAC) *Biosensors for Medical Applications*. Woodhead Publishing, (2012), ISBN 1 84569 935 1.
+4. **J.C. Claussen**, J. Shi, A.R. Diggs, D.M. Porterfield, T.S. Fisher. Electrochemical Biosensors of Carbon Nanotubes., *Nanomaterials for the Life Sciences*, Ch. 8 (pp. 187-217) Wiley-VCH, (2011), ISBN 978-3-527-32169-8.
 
 
+<!---Research Reports from CV-->
+##Research Reports
+
+1. J.C. Claussen, [Nanoparticle biosensor for noninvasive glucose sensing., Sensing & Measurements](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&cstart=20&pagesize=80&citation_for_view=gJzQV6QAAAAJ:_kc_bZDykSQC), *SPIE Newsroom – Nanotechnology* (2013), DOI: 10.1117/2.1201308.005030
+2. J.C. Claussen, I.L. Medintz, [“Using Nanotechnology to Improve Lab on a Chip Devices”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&cstart=20&pagesize=80&citation_for_view=gJzQV6QAAAAJ:5nxA0vEk-isC). *J. Biochip Tissue Chip.*, (2012), DOI: 10.4172/2153-0777.1000e117
