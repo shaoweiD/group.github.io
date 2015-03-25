@@ -4,6 +4,9 @@ bg: '#63BD2F'
 color: white
 fa-icon: plug
 ---
+
+<!--- Previous Journal Articles, but PERFECTLY CITED!
+
 - [Electrochemical biosensor of nanocube-augmented carbon nanotube networks](
 	https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&citation_for_view=gJzQV6QAAAAJ:u5HHmVD_uO8C).
    JC Claussen, AD Franklin, A ul Haque, DM Porterfield, TS Fisher
@@ -43,3 +46,33 @@ Nanotechnology 22 (35), 355502
 JC Claussen, SS Kim, A ul Haque, MS Artiles, DM Porterfield, TS Fisher
 Journal of Diabetes Science and Technology 4 (2), 312
 
+-->
+
+
+<!--- Journal Articles from CV -->
+
+1. Shaowei Ding, Allison A. Cargill, Igor L. Medintz, **Jonathan C. Claussen**, “Increasing the Activity of Immobilized Enzymes with Nanoparticle Conjugation, *Curr. Opin. Biotechnol.*, (In Review).  **2013 Impact Factor = 8.035**
+2. **J.C. Claussen**, A. Malanoski, J.C. Breger, E. Oh, S.A. Walper, K. Susumu, R. Goswami, J.R. Deschamps, I.L. Medintz, [“Probing the enzymatic activity of alkaline phosphatase within quantum dot bioconjugates”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&citation_for_view=gJzQV6QAAAAJ:dhFuZR0502QC). *J Phys Chem C*, 119, 4, 2015. **2013 Impact Factor = 4.835**
+3. S. Buckout-White, **J.C. Claussen**, M.G. Ancona, E. White, I.L. Medintz, “Three-dye dynamic DNA scaffolds for photonic switching and logic through fluorescence resonance energy transfer”. *RSC Advances*, 4, 90, 2014. **2013 Impact Factor = 3.708**
+4. **J.C. Claussen**, M. A. Daniele, J. Gedder, M. Pruessner, Antti J. Mäkinen, B. Melde, Mark Twigg, Jasenka Verbarg, and Igor Medintza [“Platinum-paper micromotors: An urchin-like nanohybrid catalyst for green monopropellant bubble-thrusters”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&cstart=20&pagesize=80&citation_for_view=gJzQV6QAAAAJ:mVmsd5A6BfQC). *ACS Appl. Mater & Interfaces* – 6, 20, 2014. **2013 Impact Factor = 5.900**
+5. M. Taguchi, A. Ptitsyn, E. S. McLamore, **J.C. Claussen**, [Nanomaterial-mediated biosensors for monitoring glucose](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&citation_for_view=gJzQV6QAAAAJ:4DMP91E08xMC), *J. of Diabetes Sci. and Technol.* 8,2, (2014).
+6. **J.C. Claussen**, N. Hildebrandt, K. Susumu, M. G. Ancona, I.L. Medintz, [“Complex logic functions implemented with quantum-dot bionanophotonic circuits”](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gJzQV6QAAAAJ&citation_for_view=gJzQV6QAAAAJ:aqlVkmm33-oC). *ACS Appl. Mater. & Intefaces.* 6,6, (2014) COVER ARTICLE **2013 Impact Factor = 5.900**
+7. **J.C. Claussen**, W. R. Algar, N. Hildebrandt, K. Susumu, M. G. Ancona, I.L. Medintz, “Biophotonic logic devices based on quantum dots and temporally-staggered Förster energy transfer relays”. Nanoscale. 5, 24, (2013). – COVER ARTICLE 2013 Impact Factor = 6.739
+8.	P. Chaturvedi, M. Taguchi, S. L. Burrs, B. A. Hauser, W. W. A. W. Salim, J. C. Claussen, E. S. McLamore, “Emerging technologies for non‑invasive quantification of physiological oxygen transport in plants”. Planta 238, 3 (2013). 2013 Impact Factor = 3.376
+9.	J.C. Claussen*, D. Kagen*, M. Benchimol*, E.Chuluun-Erdene, S. Esener, J. Wang, “Acoustic droplet vaporization of perfluorocarbon-filled microbullets for targeted tissue penetration and deformation”. Angew. Chem. Int. Ed. 124, 30, (2012). 2013 Impact Factor = 11.336
+10.	J.C. Claussen, A. Kumar, D.B. Jaroch, H.K. Khawaja, A.B. Hibbard, D.M. Porterfield, T.S. Fisher “Nanostructuring platinum nanoparticles on graphene petal nanosheets for electrochemical biosensing”, Adv. Funct. Mater. 22, 16, (2012). – COVER ARTICLE  2013 Impact Factor = 10.439
+11.	J.C. Claussen*, G.Valdes-Ramirez*, J.R. Windmiller*, A.G. Martinez, F. Kirilay, M. Zhou, R. Narayan, J. Wang, “Multiplexed and switchable release of distinct fluids from microneedle platforms via conducting polymer nanoactuators for potential drug delivery”, Sens. Actuators, B, 161, 1, (2012). 2013 Impact Factor = 3.840
+12.	S. Campuzano, J. Orozco, D. Kagen, M. Guix, W. Gao, S. Sattayasamitsathit, J.C. Claussen, A. Merkoci, J. Wang, “Bacterial isolation by lectin-modified microengines”, Nano Lett., 12, 1, (2012).  2013 Impact Factor = 12.940
+13.	J.C. Claussen*, J.B. Hengenius*, M. M. Wickner, T.S. Fisher, D.M. Porterfield, D.M. Umulis, “Effects of carbon nanotube-tethered nanosphere density on amperometric biosensing:  simulation and experiment” J. Phys. Chem. C., 115, 43 (2011). 2013 Impact Factor = 4.835
+14.	J. Shi, J.C. Claussen, E.S. McLamore, A. Haque, D. Jaroch, A. R. Diggs, P. Calvo-Marzal, J. L. Rickus, D.M. Porterfield, “A comparative study of enzyme immobilization strategies for multi-walled carbon nanotube glucose biosensors,” Nanotechnology, 21, 35, (2011). 2012 Impact Factor = 3.672
+15.	J.C. Claussen, M.S. Artilles, E.S. McLamore, S. Mohanty, J. Shi, J.L. Rickus, T.S. Fisher, D.M. Porterfield, “Electrochemical glutamate biosensing with nanocube and nanosphere augmented single-walled carbon nanotube networks:  a comparative study,” J. Mater. Chem. 21, 30, (2011). 2013 Impact Factor = 6.626
+16.	J. Shi, T.G. Cha, J.C. Claussen, A.R. Diggs, J.H. Choi, D.M. Porterfield, “Microbiosensors based on DNA modified single-walled carbon nanotube and Pt black nanocomposites,” Analyst, 136, 23, (2011). – COVER ARTICLE. 2013 Impact Factor = 3.906
+17.	J.C. Claussen, M.M. Wickner, T.S. Fisher, D. M. Porterfield, “Transforming the fabrication and biofunctionalization of gold nanoelectrode arrays into versatile electrochemical glucose biosensors.” ACS Appl. Mater. & Interfaces, 3, 5, (2011). 2013 Impact Factor = 5.900
+18.	E.S McLamore, J. Shi, D. Jaroch, J.C. Claussen, A. Uchida, Y.J. Jiang,
+M.K. Banks, K.K. Buhman, D. Teegarden, J.L. Rickus, D.M. Porterfield, “A
+self-referencing platinum nanoparticle decorated enzyme-based microbiosensor for real time measurement of physiological glucose transport,” Biosens. Bioelectron., 26, 5 (2011). 2013 Impact Factor = 6.451
+19.	J. Shi, E.S. McLamore, D. Jaroch, J.C. Claussen, J.L. Rickus, D.M. Porterfield, “Oscillatory glucose flux in INS1 pancreatic β cells: A self-referencing microbiosensor study,” Anal. Biochem., 411, 185 (2011). 2013 Impact Factor = 2.305
+20.	J.C. Claussen, S.S. Kim, M.S. Artilles, A. ul Haque, T.S. Fisher, M.D. Porterfield, “Electrochemical glucose biosensor of platinum nanospheres connected by carbon nanotubes,” J. of Diabetes Sci. and Technol. 4, 2, (2010). 
+21.	E.S. McLamore, S. Mohanty, J. Shi, J. C. Claussen, J.L. Rickus, S. S. Jedlicka, D.M. Porterfield, “A self-referencing glutamate biosensor for measuring real time neuronal glutamate flux,” J. Neurosci. Methods, 189, 14 (2010). 2013 Impact Factor = 1.959
+22.	J.C. Claussen, A.D. Franklin, T.S. Fisher, M.D. Porterfield, “Electrochemical biosensor of nanocube-augmented carbon nanotube networks,” ACS Nano, 3,1, (2009). – COVER ARTICLE 2013 Impact Factor = 12.033
+23.	A.D. Franklin, D.B. Janes, J.C. Claussen, T.S. Fisher, T.D. Sands, “Independently addressable fields of porous anodic alumina embedded in SiO2 on Si,” Appl. Phys. Lett., 92, 1 (2008). 2013 Impact Factor = 3.515
